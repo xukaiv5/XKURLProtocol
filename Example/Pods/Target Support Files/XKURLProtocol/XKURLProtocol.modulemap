@@ -1,0 +1,6 @@
+framework module XKURLProtocol {
+  umbrella header "XKURLProtocol-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - XKURLProtocol (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - XKURLProtocol (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  XKURLProtocol:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  XKURLProtocol: dc61298c2d206f57f3c2e35e7b0dd26ad353b096
+
+PODFILE CHECKSUM: fcddb877afd4caec527c592dc50ff5af0c1449f1
+
+COCOAPODS: 1.9.3
